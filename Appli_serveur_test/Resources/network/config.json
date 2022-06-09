@@ -1,0 +1,8 @@
+{
+  "Settings": {
+    "LocalPort": 10000,
+    "RemotePort": 19000,
+    "MaxNbPorts": 8,
+    "Timeout": 1800000
+  }
+}
