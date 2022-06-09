@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "mDsXBP5j70ROQF2Yh3pIOBIwm0PaDmH2hIRaYKfUxYzuS+GnMmj1IAfbvgJos3Fe3wRkTEfFMa6U1EuEGQOydA==",
+  "success": true,
+  "projectFilePath": "D:\\Projet\\pi_carcassonne\\Appli_serveur_test\\Appli_serveur_test\\Appli_serveur_test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\the_s\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0-preview.2.22152.2\\microsoft.extensions.configuration.7.0.0-preview.2.22152.2.nupkg.sha512",
+    "C:\\Users\\the_s\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0-preview.2.22152.2\\microsoft.extensions.configuration.abstractions.7.0.0-preview.2.22152.2.nupkg.sha512",
+    "C:\\Users\\the_s\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.0-preview.2.22152.2\\microsoft.extensions.configuration.binder.7.0.0-preview.2.22152.2.nupkg.sha512",
+    "C:\\Users\\the_s\\.nuget\\packages\\microsoft.extensions.configuration.environmentvariables\\7.0.0-preview.2.22152.2\\microsoft.extensions.configuration.environmentvariables.7.0.0-preview.2.22152.2.nupkg.sha512",
+    "C:\\Users\\the_s\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\7.0.0-preview.2.22152.2\\microsoft.extensions.configuration.fileextensions.7.0.0-preview.2.22152.2.nupkg.sha512",
+    "C:\\Users\\the_s\\.nuget\\packages\\microsoft.extensions.configuration.json\\7.0.0-preview.2.22152.2\\microsoft.extensions.configuration.json.7.0.0-preview.2.22152.2.nupkg.sha512",
+    "C:\\Users\\the_s\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\7.0.0-preview.2.22152.2\\microsoft.extensions.fileproviders.abstractions.7.0.0-preview.2.22152.2.nupkg.sha512",
+    "C:\\Users\\the_s\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\7.0.0-preview.2.22152.2\\microsoft.extensions.fileproviders.physical.7.0.0-preview.2.22152.2.nupkg.sha512",
+    "C:\\Users\\the_s\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\7.0.0-preview.2.22152.2\\microsoft.extensions.filesystemglobbing.7.0.0-preview.2.22152.2.nupkg.sha512",
+    "C:\\Users\\the_s\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\the_s\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0-preview.2.22152.2\\microsoft.extensions.primitives.7.0.0-preview.2.22152.2.nupkg.sha512",
+    "C:\\Users\\the_s\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\the_s\\.nuget\\packages\\npgsql\\7.0.0-preview.2\\npgsql.7.0.0-preview.2.nupkg.sha512",
+    "C:\\Users\\the_s\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\7.0.0-preview.2.22152.2\\system.runtime.compilerservices.unsafe.7.0.0-preview.2.22152.2.nupkg.sha512",
+    "C:\\Users\\the_s\\.nuget\\packages\\system.text.encodings.web\\7.0.0-preview.2.22152.2\\system.text.encodings.web.7.0.0-preview.2.22152.2.nupkg.sha512",
+    "C:\\Users\\the_s\\.nuget\\packages\\system.text.json\\7.0.0-preview.2.22152.2\\system.text.json.7.0.0-preview.2.22152.2.nupkg.sha512"
+  ],
+  "logs": []
+}
